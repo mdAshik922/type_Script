@@ -23,7 +23,7 @@ const substract = (number1: number, number2: number): number => {
 
 substract(34, 23);
 add(3, 4);
-add(54, b);
+
 
 // Array<T>
 
