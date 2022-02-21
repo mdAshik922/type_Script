@@ -27,7 +27,7 @@ add(3, 4);
 
 // Array<T>
 
-const arr2: Array<number | string> = [123, 234, "Tamim"];
+const arr2: Array<number | string> = [123, 234, "Ashik"];
 
 const arr: number[] = [123, 234, 456];
 const arr1: string[] = ["123", "234", "456"];
@@ -42,7 +42,7 @@ interface IPerson {
   hobby?: string;
 }
 const person1: IPerson = {
-  name: "Tamim",
+  name: "Ashik",
   age: 22,
   hobby: "Programming",
 };
