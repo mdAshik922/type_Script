@@ -59,7 +59,7 @@ const personArr: Array<IPerson> = [person1, person2];
 enum Colors {
   color1 = "#ededed",
   color2 = "#ededff",
-  color3 = "#ededee",
+  
 }
 
 console.log(Colors.color3);
