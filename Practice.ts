@@ -60,7 +60,7 @@ enum Colors {
   color1 = "#ededed",
   color2 = "#ededff",
   color3 = "#ededee",
-}
+};
 
 console.log(Colors.color3);
 
